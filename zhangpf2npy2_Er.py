@@ -1,3 +1,10 @@
+##**********
+##
+## convert xi'dian matlab response file to npy which GRAND whitepaper used
+## author: Zhang Jianli @NAOC
+## email: jlzhang@bao.ac.cn
+##**********
+
 import scipy.io as scio
 import numpy as np 
 import cmath
